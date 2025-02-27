@@ -22,7 +22,7 @@ This project utilizes **XGBoost Regression** to predict house prices based on th
 ## Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/house-price-prediction.git
+   git clone https://github.com/aman0v0/house-price-prediction.git
    cd house-price-prediction
    ```
 2. Install required dependencies:
